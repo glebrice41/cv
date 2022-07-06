@@ -1,13 +1,13 @@
 .rounded-img {
-    width: 30%;
-    border-radius: 30%;
-    box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
-    padding: 0.5em;
-    margin-bottom: 1em;
-    margin: 1%;
-  }
+  width: 30%;
+  border-radius: 30%;
+  box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
+  padding: 0.5em;
+  margin-bottom: 1em;
+  margin: 1%;
+}
 
-  .text-location {
-    margin: 1%;
-    text-align: left;
-  }
+.text-location {
+  margin: 1%;
+  text-align: left;
+}

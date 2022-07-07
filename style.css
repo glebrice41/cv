@@ -14,6 +14,7 @@
 
 body {
   background-color: #d6faf4;
+  flex-flow: wrap;
 }
 
 hr {
@@ -53,3 +54,12 @@ img {
 #name {
   color: yellowgreen;
 }
+
+/***************** MEDIA SELECTORS *****************/
+
+/*
+@media screen and (max-witdth: 992px) {
+  body {
+    background-color: blueviolet;
+  }
+*/

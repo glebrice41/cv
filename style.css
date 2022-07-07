@@ -1,6 +1,5 @@
 /***************** CLASS SELECTORS *****************/
 
-
 .rounded-img {
   background-color:blanchedalmond;
   border-radius: 30%;
@@ -12,6 +11,7 @@
 }
 
 /***************** TAG SELECTORS *****************/
+
 body {
   background-color: #d6faf4;
 }
@@ -23,6 +23,7 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
 
 h1 {
   color: chocolate;
@@ -36,11 +37,19 @@ h3 {
   color: goldenrod;
 }
 
-/*
-width: 30%;
-border-radius: 30%;
-box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
-padding: 0.5em;
-margin-bottom: 1em;
-margin: 1%;
-*/
+img {
+  background-color: blanchedalmond;
+  border-radius: 30%;
+  box-shadow: 0 0 10px rgba(190, 22, 22, 0.4);
+  padding: 0.5em;
+  margin-bottom: 1em;
+  margin: 1%;
+  width: 15em;
+  
+}
+
+/***************** ID SELECTORS *****************/
+
+#name {
+  color: yellowgreen;
+}
